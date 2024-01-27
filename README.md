@@ -23,7 +23,7 @@ The primary audience for this app includes job seekers, career advisors, and any
 4. **Answer Display:** The model returns answers to the user's questions, displayed in the Streamlit application.
 5. **Feedback Collection:** Users are encouraged to provide feedback on the quality of the answers. They can indicate whether the answers were satisfactory or not.
 
-![Screenshot 2](screenshots/MicrosoftTeams-image (2).png)
+![Screenshot 2](screenshots/MicrosoftTeams-image(3).png)
 
 ## Application Overview
 
