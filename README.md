@@ -1,5 +1,5 @@
 # Resume Enhancement Web Application
-
+![Screenshot 1](screenshots/MicrosoftTeams-image.png)
 ## Introduction
 
 ### Purpose
@@ -16,12 +16,14 @@ The primary audience for this app includes job seekers, career advisors, and any
 - **PyPDF2:** Used to handle PDF file reading and text extraction.
 - **Transformers (BERT):** Employed for its state-of-the-art performance in NLP tasks, particularly in question answering.
 
-### Previous Model: Resume Question Answering Model
+### Resume Question Answering Model
 1. **User Uploads Resume:** Users start by uploading a resume.
 2. **Question Input:** After uploading the resume, users can input questions related to the resume content.
 3. **Model Processing:** The BERT-based model processes the resume and the questions, leveraging its contextual understanding to provide accurate responses.
 4. **Answer Display:** The model returns answers to the user's questions, displayed in the Streamlit application.
 5. **Feedback Collection:** Users are encouraged to provide feedback on the quality of the answers. They can indicate whether the answers were satisfactory or not.
+
+![Screenshot 2](screenshots/MicrosoftTeams-image (2).png)
 
 ## Application Overview
 
@@ -48,6 +50,8 @@ The application provides various features:
 - Developed using Streamlit, the app provides a clean and interactive interface.
 - Users can upload their resumes, input job descriptions, ask questions, and receive tailored suggestions.
 - The interface is designed to be user-friendly, allowing seamless navigation through various features.
+
+![Screenshot 3][screenshots/MicrosoftTeams-image (3).png]
 
 ## Challenges and Solutions
 
