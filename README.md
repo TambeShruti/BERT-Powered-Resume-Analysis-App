@@ -23,7 +23,7 @@ The primary audience for this app includes job seekers, career advisors, and any
 4. **Answer Display:** The model returns answers to the user's questions, displayed in the Streamlit application.
 5. **Feedback Collection:** Users are encouraged to provide feedback on the quality of the answers. They can indicate whether the answers were satisfactory or not.
 
-![Screenshot 2](screenshots/MicrosoftTeams-image(3).png)
+![Screenshot 2](screenshots/2.png)
 
 ## Application Overview
 
@@ -50,9 +50,8 @@ The application provides various features:
 - Developed using Streamlit, the app provides a clean and interactive interface.
 - Users can upload their resumes, input job descriptions, ask questions, and receive tailored suggestions.
 - The interface is designed to be user-friendly, allowing seamless navigation through various features.
-
-![Screenshot 3][screenshots/MicrosoftTeams-image (3).png]
-
+![Screenshot 2](screenshots/1.png)
+![Screenshot 3](screenshots/3.png)
 ## Challenges and Solutions
 
 - One of the primary challenges was ensuring the accuracy of NLP tasks.
